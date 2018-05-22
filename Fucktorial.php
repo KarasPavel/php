@@ -1,6 +1,7 @@
 <?php
-function power($x){
-//sadasdas
+//asdddddddddddddddddjsapij ijpjsapjdjaspdiasj
+function pow
+
   if($x === 1){
     return $x;
   }
@@ -9,4 +10,8 @@ function power($x){
 
 }
 
+
 echo "\n". power(4);[M ;
+=======
+echo "\n". power(4);
+
